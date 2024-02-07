@@ -1,0 +1,2 @@
+# exercises
+ex. list comprehension
